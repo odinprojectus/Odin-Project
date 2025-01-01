@@ -1,0 +1,1 @@
+This is a project to create a basic recipe website, putting into practice things that I have learned so far on HTML, including elements and tags, lists, links, images, and version control with Git.
